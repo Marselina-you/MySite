@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Marselina-you/MySite/issues"
   },
-  "homepage": "https://github.com/Marselina-you/MySite#readme"
+  "homepage": "https://github.com/Marselina-you/MySite#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
