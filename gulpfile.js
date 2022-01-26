@@ -11,7 +11,7 @@ global.app = {
 }
 //импорт задач
 import { copy } from "./gulp/tasks/copy.js";
-import { copy } from "./gulp/tasks/reset.js";
+import { reset } from "./gulp/tasks/reset.js";
 
 function watcher() {
 	gulp.watch(path.watch.files, copy)
