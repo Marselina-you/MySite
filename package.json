@@ -1,0 +1,23 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marselina-you/MySite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marselina-you/MySite/issues"
+  },
+  "homepage": "https://github.com/Marselina-you/MySite#readme",
+  "devDependencies": {
+    "del": "^6.0.0"
+  }
+}
